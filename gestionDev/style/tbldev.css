@@ -1,0 +1,12 @@
+.container{
+    width: 90%;
+    margin: auto;
+}
+ .table{
+     margin-top: 10%;
+ }
+ body{
+    background-image: url("pf-misctexture01-beer-000_5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }

@@ -1,0 +1,14 @@
+.container{
+    margin-top: 10%; 
+    margin-left: 18%;
+}
+body{
+    background-image: url("pf-misctexture01-beer-000_5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-auto{
+    margin-left: 20%;
+    margin-top: 2%;
+   
+}
